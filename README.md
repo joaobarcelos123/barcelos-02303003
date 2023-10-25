@@ -3,7 +3,6 @@
 	<head>
 		<meta charset="UTF-8">
 		<title>Produtos - Barbearia Alura</title>
-
 		<link rel="stylesheet" href="reset.css">
 		<link rel="stylesheet" href="style.css">
 	</head>
@@ -11,7 +10,6 @@
 		<header>
 			<div class="caixa">
 				<h1><img src="logo.png"></h1>
-
 				<nav>
 					<ul>
 						<li><a href="index.html">Home</a></li>
@@ -21,7 +19,6 @@
 				</nav>
 			</div>
 		</header>
-
 		<main>
 			<ul class="produtos">
 				<li>
@@ -44,7 +41,6 @@
 				</li>
 			</ul>
 		</main>
-
 		<footer>
 			<img src="logo-branco.png">
 			<p class="copyright">&copy; Copyright Barbearia Alura - 2019</p>
